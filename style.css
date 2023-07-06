@@ -1,0 +1,28 @@
+h1 {
+  font-family: arial;
+  font-size: 30px;
+  text-align: center;
+  background-color: lightblue;
+  height: 70px;
+  width: auto;
+  margin: auto;
+  color: white;
+}
+
+* {
+  font-family: arial;
+  text-align: center;
+}
+
+h6 {
+  text-align: left; !important
+}
+
+p {
+  font-size: 20px;
+  color: black;
+}
+
+input {
+  width: 200px;
+}

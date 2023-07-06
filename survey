@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" href="style.css" />
+<head>
+  <title>Судалгааны сайт</title>
+</head>
+<body>
+  <h1>Судалгааны сайтад тавтай морил!</h1>
+  <form action="https://airform.io/azbiligb@gmail.com" method="post">
+  <div id="names">
+  <p>1.Овог нэр</p>
+  <input type=" text" id="name" required>
+  </div>
+  <div id="phones">
+  <p>2.Утасны дугаар</p>
+  <input type="number" id="phone" required>
+  </div>
+  <div id="emails">
+  <p>3.Цахим шуудан</p>
+  <input type="text" id="email" required>
+  </div>
+  <div id="foods">
+  <p>4.Дуртай хоол болон идэх юмс</p>
+  <input type="text" id="food" required>
+  </div>
+  <div id="things">
+  <p>5.Хийх дуртай зүйлс</p>
+  <input type="text" id="thing" required>
+  </div>
+  <div id="notthings">
+  <p>6.Дургүй зүйлс</p>
+  <input type="text" id="notthing" required>
+  </div>
+  <div id="comments">
+  <p>7.Сайтын тухай санал хүсэлт</p>
+  <input type="textarea" id="comment" required>
+  </div>
+  </form>
+  <footer>
+  <h6>Утасны дугаар:91209181</h6>
+  <h6>Цахим шуудан:azbiligb@gmail.com</h6>
+  </footer>
+   
+</body>
+</html>
